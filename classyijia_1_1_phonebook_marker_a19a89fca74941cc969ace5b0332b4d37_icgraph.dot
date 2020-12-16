@@ -1,0 +1,10 @@
+digraph "yijia::PhonebookMarker::move"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="RL";
+  Node1 [label="yijia::PhonebookMarker\l::move",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="yijia::phonebook::move",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespaceyijia_1_1phonebook.html#a0ed69b6e477fe0a903a56b6a0e557872",tooltip=" "];
+}

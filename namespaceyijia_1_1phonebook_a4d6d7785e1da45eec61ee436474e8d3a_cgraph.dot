@@ -1,0 +1,18 @@
+digraph "yijia::phonebook::remove"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="yijia::phonebook::remove",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="yijia::phonebookDetail\l::checkMarkName",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespaceyijia_1_1phonebook_detail.html#ab347a5e5be9500ae1ad71f9309dbbffd",tooltip=" "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="yijia::PhonebookMarker\l::remove",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classyijia_1_1_phonebook_marker.html#a0d4331d80459da94d88e780c8507a106",tooltip=" "];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="yijia::Phonebook::end",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classyijia_1_1_phonebook.html#a4955183151a0254ae3f6efcb32b5cda8",tooltip=" "];
+  Node3 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="yijia::Phonebook::erase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classyijia_1_1_phonebook.html#a0f36eb56358ea0bfc1ae34d195eb04e5",tooltip=" "];
+  Node3 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="yijia::Phonebook::getSize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classyijia_1_1_phonebook.html#a3d71e985848651421be698c15cded056",tooltip=" "];
+}

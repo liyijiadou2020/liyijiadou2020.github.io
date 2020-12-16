@@ -1,0 +1,90 @@
+[OPTIONS]
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=B3 report <12-15>
+
+[WINDOWS]
+main="B3 report <12-15>","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+annotated.html
+check-stream_8cpp.html
+check-stream_8cpp_source.html
+check-stream_8hpp.html
+check-stream_8hpp_source.html
+classes.html
+classyijia_1_1_phonebook-members.html
+classyijia_1_1_phonebook.html
+classyijia_1_1_phonebook_marker-members.html
+classyijia_1_1_phonebook_marker.html
+classyijia_1_1factorial_1_1_factorial-members.html
+classyijia_1_1factorial_1_1_factorial.html
+classyijia_1_1factorial_1_1_factorial_1_1_iterator-members.html
+classyijia_1_1factorial_1_1_factorial_1_1_iterator.html
+dir_80c20de9a88e391396684405f83d6412.html
+dir_bc829660b002adec1f5e65b3bee188f9.html
+dir_d25449e2914b95c28c4cc7a0bdf89c7f.html
+error-info_8hpp.html
+error-info_8hpp_source.html
+factorial_8hpp.html
+factorial_8hpp_source.html
+files.html
+functions.html
+functions_enum.html
+functions_eval.html
+functions_func.html
+functions_type.html
+functions_vars.html
+globals.html
+globals_func.html
+hierarchy.html
+index.html
+main_8cpp.html
+main_8cpp_source.html
+namespacemembers.html
+namespacemembers_func.html
+namespacemembers_vars.html
+namespaces.html
+namespaceyijia.html
+namespaceyijia_1_1detail.html
+namespaceyijia_1_1error_info.html
+namespaceyijia_1_1factorial.html
+namespaceyijia_1_1phonebook.html
+namespaceyijia_1_1phonebook_detail.html
+phonebook-interface_8cpp.html
+phonebook-interface_8cpp_source.html
+phonebook-interface_8hpp.html
+phonebook-interface_8hpp_source.html
+phonebook-marker_8cpp.html
+phonebook-marker_8cpp_source.html
+phonebook-marker_8hpp.html
+phonebook-marker_8hpp_source.html
+phonebook_8cpp.html
+phonebook_8cpp_source.html
+phonebook_8hpp.html
+phonebook_8hpp_source.html
+structyijia_1_1phonebook_detail_1_1_name-members.html
+structyijia_1_1phonebook_detail_1_1_name.html
+task1_8cpp.html
+task1_8cpp_source.html
+task2_8cpp.html
+task2_8cpp_source.html
+tasks_8hpp.html
+tasks_8hpp_source.html
+bc_s.png
+bdwn.png
+closed.png
+nav_f.png
+nav_h.png
+open.png
+sync_off.png
+sync_on.png
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png
